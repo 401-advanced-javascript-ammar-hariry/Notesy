@@ -1,24 +1,31 @@
 {
-  "name": "Notesy",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/401-advanced-javascript-ammar-hariry/Notesy.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/401-advanced-javascript-ammar-hariry/Notesy/issues"
-  },
-  "homepage": "https://github.com/401-advanced-javascript-ammar-hariry/Notesy#readme",
-  "dependencies": {
-    "add": "^2.0.6",
-    "minimist": "^1.2.5"
-  }
+    "name": "Notesy",
+    "version": "1.0.0",
+    "description": "## Project: Notesy",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint '**/*.js' --fix"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/401-advanced-javascript-ammar-hariry/Notesy.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/401-advanced-javascript-ammar-hariry/Notesy/issues"
+    },
+    "homepage": "https://github.com/401-advanced-javascript-ammar-hariry/Notesy#readme",
+    "dependencies": {
+        "add": "^2.0.6",
+        "eslint": "^7.0.0",
+        "lint": "^0.7.0",
+        "minimist": "^1.2.5"
+    },
+    "directories": {
+        "lib": "lib"
+    },
+    "devDependencies": {}
 }
