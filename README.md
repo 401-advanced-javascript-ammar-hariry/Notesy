@@ -13,6 +13,8 @@
 ``note.js``
 ``input.js``
 ``Node.js``
+``eslint``
+``jest``
 
 ### Packages
 ``minimist``
@@ -32,6 +34,7 @@
 #### Tests
 
 -when run the application with ``node index.js --add 'valid note'``  it will giv an error if the method thad we use not ``(--a || -a || --add)`` and the validation of the note is string, otherwise it will show an error. it tasted with ``if statement``
+- test the code with ``jest``
 
 #### UML
 
