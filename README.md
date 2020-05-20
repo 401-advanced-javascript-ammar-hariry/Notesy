@@ -19,8 +19,11 @@
 ### Packages
 ``minimist``
 ``add``
-``list``
 ``delete``
+``list``
+``category``
+``mongoose``
+
 
 
 #### How to initialize/run your application (where applicable)
@@ -29,6 +32,11 @@
 - ``node index.js -a 'valid note'``
 - ``node index.js --a 'valid note'``
 - ``./index.js --add 'valid note'``
+- ``node index.js --a 'valid note' --category health`` 
+- ``node index.js --list`` : this will show all the note in the database
+- ``node index.js --list catecory`` : this will show all the note in the database in the specific category
+- ``node index.js --delete id`` : this will delete a specific note that have this id 
+
 
 
 #### How to use your library (where applicable)
