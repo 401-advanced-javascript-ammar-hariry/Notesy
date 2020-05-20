@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-ammar-hariry/Notesy/pull/3)
+- [submission PR](https://github.com/401-advanced-javascript-ammar-hariry/Notesy/pull/4)
 
 ### module 
 ``note.js``
@@ -23,6 +23,7 @@
 ``list``
 ``category``
 ``mongoose``
+
 
 
 #### How to initialize/run your application (where applicable)
