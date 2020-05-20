@@ -19,6 +19,8 @@
 ### Packages
 ``minimist``
 ``add``
+``list``
+``delete``
 
 
 #### How to initialize/run your application (where applicable)
