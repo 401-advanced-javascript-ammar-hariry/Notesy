@@ -21,6 +21,7 @@
     "homepage": "https://github.com/401-advanced-javascript-ammar-hariry/Notesy#readme",
     "dependencies": {
         "add": "^2.0.6",
+        "category": "^0.1.2",
         "delete": "^1.1.0",
         "eslint": "^7.0.0",
         "lint": "^0.7.0",
