@@ -19,7 +19,7 @@ if (inputObj.valid()) {
   objOFNote.execute(inputObj);
   objOFNote.add(inputObj).then(mongoose.disconnect);
 } else if (inputObj.list()) {
-  objOFNote.listRender().then(mongoose.disconnect);
+  objOFNote.listRender(inputObj).then(mongoose.disconnect);
 } else if (inputObj.delete()) {
   objOFNote.deleteNote(inputObj).then(mongoose.disconnect);
 } else {
