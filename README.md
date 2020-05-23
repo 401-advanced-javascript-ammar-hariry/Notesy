@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-ammar-hariry/Notesy/pull/4)
+- [submission PR](https://github.com/401-advanced-javascript-ammar-hariry/Notesy/pull/8)
 
 ### module 
 ``note.js``
