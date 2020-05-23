@@ -34,8 +34,9 @@
 - ``./index.js --add 'valid note'``
 - ``node index.js --a 'valid note' --category health`` 
 - ``node index.js --list`` : this will show all the note in the database
-- ``node index.js --list catecory`` : this will show all the note in the database in the specific category
-- ``node index.js --delete id`` : this will delete a specific note that have this id 
+- ``node index.js --list category`` : this will show all the note in the database in the specific category
+- ``node index.js --delete _id`` : this will delete a specific note that have this _id 
+- ``node index.js --update _id "the updated note"`` : this will update a specific note that have this _id 
 
 
 
